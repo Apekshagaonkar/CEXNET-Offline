@@ -1,2 +1,2 @@
 # CEXNET-Offline
-Making the model accessible offline in isolated machine which is not connected to Internet. 
+Deploying the model in an offline, isolated machine without internet connectivity.
